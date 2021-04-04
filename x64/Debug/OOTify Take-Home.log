@@ -1,0 +1,5 @@
+﻿  Program.cpp
+D:\Projects\C\OOT\OOTify Take-Home\Program.cpp(150,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\C\OOT\OOTify Take-Home\Program.cpp(141): warning C4715: 'Program::assignText': not all control paths return a value
+D:\Projects\C\OOT\OOTify Take-Home\Program.cpp(190): warning C4715: 'Program::experienceToString': not all control paths return a value
+  OOTify Take-Home.vcxproj -> D:\Projects\C\OOT\OOTify Take-Home\x64\Debug\OOTify Take-Home.exe
